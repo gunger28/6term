@@ -1,0 +1,45 @@
+C:\Проекты\InfSets\InfSets\obj\x86\Debug\InfSets.csprojResolveAssemblyReference.cache
+C:\Проекты\InfSets\InfSets\obj\x86\Debug\InfSets.Form1.resources
+C:\Проекты\InfSets\InfSets\obj\x86\Debug\InfSets.Properties.Resources.resources
+C:\Проекты\InfSets\InfSets\obj\x86\Debug\InfSets.csproj.GenerateResource.Cache
+C:\Проекты\InfSets\InfSets\bin\Debug\InfSets.exe
+C:\Проекты\InfSets\InfSets\bin\Debug\InfSets.pdb
+C:\Проекты\InfSets\InfSets\bin\Debug\Mono.Security.dll
+C:\Проекты\InfSets\InfSets\bin\Debug\Npgsql.dll
+C:\Проекты\InfSets\InfSets\obj\x86\Debug\InfSets.exe
+C:\Проекты\InfSets\InfSets\obj\x86\Debug\InfSets.pdb
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\bin\Debug\InfSets.exe
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\bin\Debug\InfSets.pdb
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\bin\Debug\Mono.Security.dll
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\bin\Debug\Npgsql.dll
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\obj\x86\Debug\InfSets.csprojAssemblyReference.cache
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\obj\x86\Debug\InfSets.Form1.resources
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\obj\x86\Debug\InfSets.Properties.Resources.resources
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\obj\x86\Debug\InfSets.csproj.GenerateResource.cache
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\obj\x86\Debug\InfSets.csproj.CoreCompileInputs.cache
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\obj\x86\Debug\InfSets.csproj.CopyComplete
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\obj\x86\Debug\InfSets.exe
+C:\Users\Egori\Desktop\Учеба\информационные системы\1 лаба\InfSets\obj\x86\Debug\InfSets.pdb
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\bin\Debug\InfSets.exe
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\bin\Debug\InfSets.pdb
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\bin\Debug\Mono.Security.dll
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\bin\Debug\Npgsql.dll
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\obj\x86\Debug\InfSets.csprojAssemblyReference.cache
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\obj\x86\Debug\InfSets.Form1.resources
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\obj\x86\Debug\InfSets.Properties.Resources.resources
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\obj\x86\Debug\InfSets.csproj.GenerateResource.cache
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\obj\x86\Debug\InfSets.csproj.CopyComplete
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\obj\x86\Debug\InfSets.exe
+C:\Users\Геннадий\Desktop\6term-master\1 лаба\InfSets\obj\x86\Debug\InfSets.pdb
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\bin\Debug\InfSets.exe
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\bin\Debug\InfSets.pdb
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\bin\Debug\Mono.Security.dll
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\bin\Debug\Npgsql.dll
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\obj\x86\Debug\InfSets.csprojAssemblyReference.cache
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\obj\x86\Debug\InfSets.Form1.resources
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\obj\x86\Debug\InfSets.Properties.Resources.resources
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\obj\x86\Debug\InfSets.csproj.GenerateResource.cache
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\obj\x86\Debug\InfSets.csproj.CoreCompileInputs.cache
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\obj\x86\Debug\InfSets.csproj.CopyComplete
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\obj\x86\Debug\InfSets.exe
+C:\Users\Egori\Desktop\Учеба\информационные системы\2 лаба\2 лаба\InfSets\obj\x86\Debug\InfSets.pdb

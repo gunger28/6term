@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+using System.Threading.Tasks;
+using System.Data.SqlClient;
+using System.Data.Common;
+
 using Npgsql;
+using System.Data;
 
 namespace InfSets
 {
@@ -20,6 +25,8 @@ namespace InfSets
         public bool isOpened;
 
         NpgsqlConnection con;
+        NpgsqlCommand comm;
+        NpgsqlDataReader reader;
 
         public DataBase() => Console.WriteLine("Класс базы данных создан!");
 
@@ -38,7 +45,7 @@ namespace InfSets
             connectionString = "Server=" + host + ";port=" + port +
                 ";Database=" + dataBaseName + ";User Id=" + user + ";Password=" + password + ";";
             con = new NpgsqlConnection(connectionString);
-            NpgsqlCommand qert = con.CreateCommand();
+            comm = con.CreateCommand();
             isOpened = false;
         }
 
@@ -79,6 +86,65 @@ namespace InfSets
             {
                 return false;
             }
+        }
+        public bool executeQuery(string sql_query)
+        {
+            string queryType = sql_query.Split()[0].ToLower();
+
+            if (queryType.Equals("select"))
+            {
+                return selectQuery(sql_query);
+            } else
+            {
+                return dataQuery(sql_query);
+            };
+
+        }
+
+        public NpgsqlDataReader GetDataReader()
+        {
+            return reader;
+        }
+
+        private bool selectQuery(string sql_query)
+        {
+            
+            comm.CommandText = sql_query;
+
+            try
+            {
+                using (NpgsqlDataReader localReader = comm.ExecuteReader())
+                {
+                    reader = localReader;
+
+                    DataSet ds = new DataSet("DataBaseData");
+                    DataTable author = new DataTable("Row");
+                    author.Load(localReader);
+                    ds.Tables.Add(author);
+
+                    ds.WriteXml("books.xml");
+                    return true;
+                }
+            }
+            catch
+            {
+                return false;
+            }
+
+        }
+
+        private bool dataQuery(string sql_query)
+        {
+            comm.CommandText = sql_query;
+            try
+            {
+                if (comm.ExecuteNonQuery() > 0) return true;
+            } catch
+            {
+                return false;
+            }
+
+            return false;
         }
     }
 }
